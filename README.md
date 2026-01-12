@@ -32,7 +32,7 @@ I'm a third year Bachelor of Computer Science Student at Dalhousie University, a
 <br>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,aws,python,java,cpp,html,css,js,react,vue,nodejs,express,flask,mysql" />
+  <img src="https://skillicons.dev/icons?i=linux,aws,python,java,cpp,html,css,js,react,vue,express,flask,mysql,ableton" />
 </p>
 
 ## 🌟 Featured Projects
